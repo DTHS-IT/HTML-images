@@ -1,0 +1,8 @@
+{
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "files.autoSave": "afterDelay",
+  "liveServer.settings.port": 5500,
+  "liveServer.settings.host": "0.0.0.0",
+  "liveServer.settings.NoBrowser": true
+}
